@@ -79,3 +79,6 @@ dmypy.json
 
 # OS files
 Thumbs.db
+
+# Model files (large binaries, downloaded via setup_model.py)
+models/
